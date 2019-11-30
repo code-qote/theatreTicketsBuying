@@ -1,0 +1,4 @@
+PyQt5==5.13.0
+Python-Email-Sender==1.1
+urllib3==1.24.2
+Pillow==6.2.1
